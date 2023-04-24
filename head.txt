@@ -1,3 +1,4 @@
 left eye --- right eye
 nose 
 left ear --- right ear
+mouth
